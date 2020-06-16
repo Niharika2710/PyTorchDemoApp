@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443503693404",
+    "firebase_url": "https://covidsafe-279814.firebaseio.com",
+    "project_id": "covidsafe-279814",
+    "storage_bucket": "covidsafe-279814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443503693404:android:ef03b005e6c3caaf14a099",
+        "android_client_info": {
+          "package_name": "org.pytorch.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443503693404-g4l09lokgbbrncpqpjvlb1pgr258v9qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS10AhCf2Q4x6XUlt2Bh3dEWwA4soZybk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443503693404-g4l09lokgbbrncpqpjvlb1pgr258v9qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
